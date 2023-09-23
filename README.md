@@ -32,7 +32,7 @@ Not only will you learn the technical skills needed to create stunning web appli
 
 Don't wait any longer to kickstart your Full Stack Web Development journey. Purchase our ebook now and become a Full Stack Web Developer in just 7 days!
 
-[Buy Now]('bit.ly/3EQBUBO0') <!-- Replace '#' with your actual purchase link -->
+[Buy Now](https://www.digistore24.com/redir/490219/itachishare/) <!-- Replace '#' with your actual purchase link -->
 
 
 ---
